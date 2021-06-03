@@ -10,3 +10,4 @@ if (isset($_SESSION['SESS_NAME'])!="") {
 <p>In order to make a vote you have to register first and then login.</font></legend></center>
     <p>&nbsp;&nbsp;</p>
 <?php include "footer.php";?>
+
