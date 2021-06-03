@@ -1,6 +1,6 @@
 <?php
 session_start();
-$captcha = "" ;
+
 include "connection.php"; 
 if(isset($_POST['submit'])) {
 	
